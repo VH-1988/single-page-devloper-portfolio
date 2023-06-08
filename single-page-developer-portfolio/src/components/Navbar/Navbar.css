@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.navbar{
+    display: flex;    
+}
+.nav-menu{
+    display: flex;
+}
+.nav-menu li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+.nav-menu li a{
+    color: #fff;
+}
